@@ -1,11 +1,3 @@
-/*
- * IG : i_am_bnkt
- */
-
-/**
- *
- * @author BNKT
- */
 public class Customer {
 
     private String firstName;
